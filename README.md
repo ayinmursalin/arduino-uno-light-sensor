@@ -1,13 +1,15 @@
 This project is created as my journey on Learning IoT.
 
 # Description
-Board: Arduino Uno
-Module: LDR, LCD with i2c
+Things
+- Arduino Uno
+- LCD with i2c
+- LDR Module
 
 LDR (Light-Dependent Resistor) Module or, photoresistor, is a type of resistor where resitant value change with intensity of light.
-This module has 4 pin
-- VCC,
-- GND,
+This module has 4 pin:
+- VCC
+- GND
 - DO (Digital)
 - AO (Analog)
 
