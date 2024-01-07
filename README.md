@@ -11,6 +11,9 @@ This module has 4 pin
 - DO (Digital)
 - AO (Analog)
 
+Digital Value is to dectect is there any light emitted to Sensor, which we can control the threshold from Potentiometer on the module.
+While Analog Value is calculate to amount of Light emitted, where lower value means high intensity of light and vice versa.
+
 ![image](https://github.com/ayinmursalin/light_sensor/assets/9250558/cd1db118-ca81-430d-bfb7-50c8d67f2a2a)
 
 # Result
